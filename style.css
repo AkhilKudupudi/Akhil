@@ -3,6 +3,7 @@
     justify-content: center;
     gap:30px;
     padding-top: 150px;
+    background: linear-gradient(to bottom,grey,bisque,transparent);
 }
 
 .card1{
